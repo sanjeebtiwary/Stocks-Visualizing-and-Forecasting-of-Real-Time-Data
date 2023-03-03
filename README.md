@@ -1,6 +1,6 @@
 **Objective**
 
-To creating a single-page web application and some machine-learning models which will show company information (logo, registered name and description) and stock plots based on the stock code given by the user. Also, the ML model will enable the user to get predicted stock prices for the data inputted by the user.
+To create a single-page web application and some machine-learning models which will show company information (logo, registered name and description) and stock plots based on the stock code given by the user. Also, the ML model will enable the user to get predicted stock prices for the data inputted by the user.
 
 **Project Context**
 
