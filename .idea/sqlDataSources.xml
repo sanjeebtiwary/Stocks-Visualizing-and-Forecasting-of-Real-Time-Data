@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="77ea3317-7304-4551-9541-5f53476cbd3b" name="@localhost Mapping">
+      <data-sources db="c4194c51-eb46-4842-b69b-338fcb48a842" ddl="2a4b7dc1-1855-47b9-8857-6f2bf731857d" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="2a4b7dc1-1855-47b9-8857-6f2bf731857d" />
+          <option name="name" value="@localhost (DDL)" />
+          <option name="dbmsName" value="MONGO" />
+          <option name="urls">
+            <array />
+          </option>
+          <option name="outPath" value="D:\Project\Stocks Visualizing and Forecasting of Real Time Data\Datasets" />
+          <option name="outLayout" value="File per object.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
